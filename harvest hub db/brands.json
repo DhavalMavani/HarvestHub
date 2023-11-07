@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "642a0dff2e473fc12c2faf3a"
+  },
+  "isActive": true,
+  "merchant": {
+    "$oid": "642a0d7f2e473fc12c2faf39"
+  },
+  "name": "UPL Limited",
+  "description": "UPL Limited, formerly United Phosphorus Limited, is an Indian multinational company that manufactures and markets agrochemicals and specialty chemicals, and also offers pesticides.",
+  "created": {
+    "$date": "2023-04-02T23:21:35.256Z"
+  },
+  "slug": "UPL-Limited",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c173bd98e245c5be2790f"
+  },
+  "isActive": true,
+  "merchant": {
+    "$oid": "642c1727d98e245c5be2790e"
+  },
+  "name": "Tata Chemicals",
+  "description": "Tata Chemicals Limited is an Indian global company with interests in chemicals, crop protection and specialty chemistry products headquartered in Mumbai, India.",
+  "created": {
+    "$date": "2023-04-04T12:25:31.950Z"
+  },
+  "slug": "tata-chemicals",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c1df3b704526139606b38"
+  },
+  "isActive": true,
+  "merchant": {
+    "$oid": "642c1decb704526139606b37"
+  },
+  "name": "TATA Agrico",
+  "description": "TATA Agrico has in its product range both conventional tools used for gardening include pruning & roll cut secateurs, digging trowels, weeding forks & hedge shears.",
+  "created": {
+    "$date": "2023-04-04T12:54:11.853Z"
+  },
+  "slug": "tata-agrico",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c212eb704526139606b3c"
+  },
+  "isActive": true,
+  "merchant": null,
+  "name": "Corteva",
+  "description": "Corteva, Inc. is a major American agricultural chemical and seed company that was the agricultural unit of DowDuPont prior to being spun off as an independent public company.",
+  "created": {
+    "$date": "2023-04-04T13:07:58.308Z"
+  },
+  "slug": "corteva",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c23adb704526139606b3f"
+  },
+  "isActive": true,
+  "merchant": null,
+  "name": "AllThatGrows",
+  "description": "We are a company which brings to you the best, most healthful and nourishing seeds. Our experience of producing and supplying superior quality seeds spans over a decade.",
+  "created": {
+    "$date": "2023-04-04T13:18:37.254Z"
+  },
+  "slug": "allthatgrows",
+  "__v": 0
+}]

@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "642e8240fca85d3417d9ee19"
+  },
+  "product": {
+    "$oid": "642c24b3b704526139606b41"
+  },
+  "user": {
+    "$oid": "642a0bdc2e473fc12c2faf37"
+  },
+  "rating": 5,
+  "isRecommended": true,
+  "status": "Approved",
+  "review": "I absolutely loved this product. It exceeded all of my expectations.",
+  "title": "Great",
+  "created": {
+    "$date": "2023-04-06T08:26:40.584Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e8254fca85d3417d9ee1a"
+  },
+  "product": {
+    "$oid": "642c24b3b704526139606b41"
+  },
+  "user": {
+    "$oid": "642a0bdc2e473fc12c2faf37"
+  },
+  "rating": 3,
+  "isRecommended": true,
+  "status": "Approved",
+  "review": "I had a mixed experience with this product. It had some good points, but also some flaws.",
+  "title": "Nice",
+  "created": {
+    "$date": "2023-04-06T08:27:00.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e82bffca85d3417d9ee1b"
+  },
+  "product": {
+    "$oid": "642c24b3b704526139606b41"
+  },
+  "user": {
+    "$oid": "642a0c3f2e473fc12c2faf38"
+  },
+  "rating": 5,
+  "isRecommended": true,
+  "status": "Approved",
+  "review": "This product was great! I highly recommend it.",
+  "title": "Excellent",
+  "created": {
+    "$date": "2023-04-06T08:28:47.222Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e834efca85d3417d9ee1d"
+  },
+  "product": {
+    "$oid": "642c1788d98e245c5be27910"
+  },
+  "user": {
+    "$oid": "642a0c3f2e473fc12c2faf38"
+  },
+  "rating": 4,
+  "isRecommended": true,
+  "status": "Approved",
+  "review": "I liked the product overall, but there were some things that could be improved. It worked well for the most part, but there were a few issues.",
+  "title": "Okish",
+  "created": {
+    "$date": "2023-04-06T08:31:10.622Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e837afca85d3417d9ee1e"
+  },
+  "product": {
+    "$oid": "642a2af449c0bcd7f388907f"
+  },
+  "user": {
+    "$oid": "642a0c3f2e473fc12c2faf38"
+  },
+  "rating": 5,
+  "isRecommended": true,
+  "status": "Approved",
+  "review": "I had an amazing experience with this company. The product was exactly what I was looking for, and the customer service was exceptional. I would definitely purchase from them again.",
+  "title": "Great product",
+  "created": {
+    "$date": "2023-04-06T08:31:54.700Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e8399fca85d3417d9ee1f"
+  },
+  "product": {
+    "$oid": "642c1fb4b704526139606b3b"
+  },
+  "user": {
+    "$oid": "642a0c3f2e473fc12c2faf38"
+  },
+  "rating": 2,
+  "isRecommended": true,
+  "status": "Approved",
+  "review": "The delivery took forever, and the product arrived damaged. It was a frustrating experience.",
+  "title": "Late delivery",
+  "created": {
+    "$date": "2023-04-06T08:32:25.535Z"
+  },
+  "__v": 0
+}]

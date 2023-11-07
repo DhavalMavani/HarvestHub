@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "642a2df949c0bcd7f3889082"
+  },
+  "user": {
+    "$oid": "642a0bdc2e473fc12c2faf37"
+  },
+  "products": [
+    {
+      "purchasePrice": 250,
+      "totalPrice": 500,
+      "priceWithTax": 525,
+      "totalTax": 25,
+      "status": "Cancelled",
+      "_id": {
+        "$oid": "642a2df949c0bcd7f3889083"
+      },
+      "quantity": 2,
+      "product": {
+        "$oid": "642a2c3d49c0bcd7f3889081"
+      }
+    },
+    {
+      "purchasePrice": 150,
+      "totalPrice": 150,
+      "priceWithTax": 157.5,
+      "totalTax": 7.5,
+      "status": "Shipped",
+      "_id": {
+        "$oid": "642a2df949c0bcd7f3889084"
+      },
+      "quantity": 1,
+      "product": {
+        "$oid": "642a295049c0bcd7f388907c"
+      }
+    }
+  ],
+  "created": {
+    "$date": "2023-04-03T01:38:01.282Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a2f5049c0bcd7f3889086"
+  },
+  "user": {
+    "$oid": "642a0bdc2e473fc12c2faf37"
+  },
+  "products": [
+    {
+      "purchasePrice": 50,
+      "totalPrice": 50,
+      "priceWithTax": 52.5,
+      "totalTax": 2.5,
+      "status": "Not processed",
+      "_id": {
+        "$oid": "642a2f5049c0bcd7f3889087"
+      },
+      "quantity": 1,
+      "product": {
+        "$oid": "642a2b7f49c0bcd7f3889080"
+      }
+    }
+  ],
+  "created": {
+    "$date": "2023-04-03T01:43:44.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a2fa449c0bcd7f3889089"
+  },
+  "user": {
+    "$oid": "642a0c3f2e473fc12c2faf38"
+  },
+  "products": [
+    {
+      "purchasePrice": 9,
+      "totalPrice": 9,
+      "priceWithTax": 9.45,
+      "totalTax": 0.45,
+      "status": "Not processed",
+      "_id": {
+        "$oid": "642a2fa449c0bcd7f388908a"
+      },
+      "quantity": 1,
+      "product": {
+        "$oid": "642a2af449c0bcd7f388907f"
+      }
+    }
+  ],
+  "created": {
+    "$date": "2023-04-03T01:45:08.043Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e8416fca85d3417d9ee20"
+  },
+  "user": {
+    "$oid": "642e8320fca85d3417d9ee1c"
+  },
+  "products": [
+    {
+      "purchasePrice": 35,
+      "totalPrice": 35,
+      "priceWithTax": 0,
+      "totalTax": 0,
+      "status": "Not processed",
+      "_id": {
+        "$oid": "642e8416fca85d3417d9ee21"
+      },
+      "quantity": 1,
+      "product": {
+        "$oid": "642c24b3b704526139606b41"
+      }
+    }
+  ],
+  "created": {
+    "$date": "2023-04-06T08:34:30.751Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e842afca85d3417d9ee23"
+  },
+  "user": {
+    "$oid": "642e8320fca85d3417d9ee1c"
+  },
+  "products": [
+    {
+      "purchasePrice": 50,
+      "totalPrice": 50,
+      "priceWithTax": 52.5,
+      "totalTax": 2.5,
+      "status": "Not processed",
+      "_id": {
+        "$oid": "642e842afca85d3417d9ee24"
+      },
+      "quantity": 1,
+      "product": {
+        "$oid": "642a2b7f49c0bcd7f3889080"
+      }
+    }
+  ],
+  "created": {
+    "$date": "2023-04-06T08:34:50.521Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e848dfca85d3417d9ee26"
+  },
+  "user": {
+    "$oid": "642a0bdc2e473fc12c2faf37"
+  },
+  "products": [
+    {
+      "purchasePrice": 35,
+      "totalPrice": 35,
+      "priceWithTax": 0,
+      "totalTax": 0,
+      "status": "Delivered",
+      "_id": {
+        "$oid": "642e848dfca85d3417d9ee27"
+      },
+      "quantity": 1,
+      "product": {
+        "$oid": "642c21dab704526139606b3d"
+      }
+    }
+  ],
+  "created": {
+    "$date": "2023-04-06T08:36:29.779Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6431a7a8fca85d3417d9ee2c"
+  },
+  "user": {
+    "$oid": "642a0bdc2e473fc12c2faf37"
+  },
+  "products": [
+    {
+      "purchasePrice": 35,
+      "totalPrice": 35,
+      "priceWithTax": 0,
+      "totalTax": 0,
+      "status": "Processing",
+      "_id": {
+        "$oid": "6431a7a8fca85d3417d9ee2d"
+      },
+      "quantity": 1,
+      "product": {
+        "$oid": "642c24b3b704526139606b41"
+      }
+    }
+  ],
+  "created": {
+    "$date": "2023-04-08T17:43:04.275Z"
+  },
+  "__v": 0
+}]

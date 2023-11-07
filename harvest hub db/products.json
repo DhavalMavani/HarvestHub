@@ -1,0 +1,232 @@
+[{
+  "_id": {
+    "$oid": "642a295049c0bcd7f388907c"
+  },
+  "taxable": true,
+  "isActive": true,
+  "brand": {
+    "$oid": "642a0dff2e473fc12c2faf3a"
+  },
+  "sku": "00000001",
+  "name": "Herbicides - Lifeline Plus",
+  "description": "Lifeline Plus is a selective herbicide that controls weeds in rice fields. It provides effective control of grassy weeds and broadleaf weeds without harming the rice crop.",
+  "quantity": 11,
+  "price": 150,
+  "imageUrl": "https://ng.uplonline.com/product_images/yNZdqyLWTRWiEn7bVG7mqLvmiWb2PuRh8JHGygm3.jpeg",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-03T01:18:08.786Z"
+  },
+  "slug": "herbicides-lifeline-plus",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a2af449c0bcd7f388907f"
+  },
+  "taxable": true,
+  "isActive": true,
+  "brand": {
+    "$oid": "642a0dff2e473fc12c2faf3a"
+  },
+  "sku": "00000002",
+  "name": "Fungicides - SAAF",
+  "description": "SAAF is a broad-spectrum fungicide that controls a wide range of diseases in crops such as grapes, pome fruits, and vegetables.",
+  "quantity": 19,
+  "price": 9,
+  "imageUrl": "https://in.uplonline.com/product_images/SAAF.jpg",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-03T01:25:08.733Z"
+  },
+  "slug": "fungicides-saaf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a2b7f49c0bcd7f3889080"
+  },
+  "taxable": true,
+  "isActive": true,
+  "brand": {
+    "$oid": "642a0dff2e473fc12c2faf3a"
+  },
+  "sku": "00000003",
+  "name": "Insecticides - Trigard",
+  "description": "Trigard is an insect growth regulator that controls a wide range of pests in crops such as cotton, vegetables, and fruit trees.",
+  "quantity": 6,
+  "price": 50,
+  "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/10/JW/LF/AH/140244007/1kg-triguard-organic-fungicide-500x500.jpg",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-03T01:27:27.049Z"
+  },
+  "slug": "insecticides-trigard",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a2c3d49c0bcd7f3889081"
+  },
+  "taxable": true,
+  "isActive": true,
+  "brand": {
+    "$oid": "642a0dff2e473fc12c2faf3a"
+  },
+  "sku": "00000004",
+  "name": "Plant Growth Regulators - XLR8",
+  "description": "XLR8 is a plant growth regulator that enhances the growth and development of crops such as wheat, rice, and maize.",
+  "quantity": 37,
+  "price": 250,
+  "imageUrl": "https://in.uplonline.com/product_images/GAINEXA.jpg",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-03T01:30:37.051Z"
+  },
+  "slug": "plant-growth-regulators-xlr8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c1788d98e245c5be27910"
+  },
+  "taxable": true,
+  "isActive": true,
+  "brand": {
+    "$oid": "642c173bd98e245c5be2790f"
+  },
+  "sku": "0000006",
+  "name": "Tata Urea Plus",
+  "description": "Tata Urea Plus is a nitrogenous fertilizer that contains 46% nitrogen. It provides a quick and sustained release of nitrogen to crops, helping them grow faster and produce higher yields.",
+  "quantity": 16,
+  "price": 75,
+  "imageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/S/aplus-media-library-service-media/2d1932a0-18aa-40dc-b59f-146fcef3617e.__CR4,0,970,600_PT0_SX970_V1___.jpg",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-04T12:26:48.671Z"
+  },
+  "slug": "tata-urea-plus",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c1a84b704526139606b35"
+  },
+  "taxable": true,
+  "isActive": true,
+  "brand": {
+    "$oid": "642c173bd98e245c5be2790f"
+  },
+  "sku": "0000007",
+  "name": "Tata SSP Plus",
+  "description": "Tata SSP Plus is a granulated single superphosphate fertilizer that contains 16% phosphorus. It provides a quick release of phosphorus to crops, helping them develop strong roots, flowers, and fruits",
+  "quantity": 13,
+  "price": 35,
+  "imageUrl": "https://elixirgardensupplies.co.uk/wp-content/uploads/2021/03/Triple-Super-Phosphate-New-Bag-Amazon.jpg",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-04T12:39:32.132Z"
+  },
+  "slug": "tata-ssp-plus",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c1e8fb704526139606b39"
+  },
+  "taxable": true,
+  "isActive": true,
+  "brand": {
+    "$oid": "642c1df3b704526139606b38"
+  },
+  "sku": "00000008",
+  "name": "Shovels",
+  "description": "Tata Agrico produces a wide range of shovels for various farming applications such as digging, scooping, and leveling.",
+  "quantity": 17,
+  "price": 300,
+  "imageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/615hzvrtfsL._SY550_.jpg",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-04T12:56:47.695Z"
+  },
+  "slug": "shovels",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c1fb4b704526139606b3b"
+  },
+  "taxable": true,
+  "isActive": true,
+  "brand": {
+    "$oid": "642c1df3b704526139606b38"
+  },
+  "sku": "00000007",
+  "name": "Sickles",
+  "description": "Tata Agrico manufactures a range of sickles for cutting and harvesting crops. They are available in different sizes and blade types to suit various crop types and harvesting needs.",
+  "quantity": 13,
+  "price": 199,
+  "imageUrl": "https://scontent.fraj1-1.fna.fbcdn.net/v/t39.30808-6/275366688_2265290423609281_2606872963780793640_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=AFc6DOAfySsAX9DUhJR&_nc_ht=scontent.fraj1-1.fna&oh=00_AfAQrlf82FHptW2kAC20Ssq7yoEgx_zK8vA1o2sdD4r-mQ&oe=6430D13C",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-04T13:01:40.555Z"
+  },
+  "slug": "sickles",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c21dab704526139606b3d"
+  },
+  "taxable": false,
+  "isActive": true,
+  "brand": {
+    "$oid": "642c212eb704526139606b3c"
+  },
+  "sku": "00000009",
+  "name": "Pioneer",
+  "description": "Pioneer is a brand of high quality seeds that are designed to help farmers achieve better yields and crop performance.",
+  "quantity": 11,
+  "price": 35,
+  "imageUrl": "https://www.logolynx.com/images/logolynx/1e/1ed5309f6511f3e67f43f407c53423a8.jpeg",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-04T13:10:50.787Z"
+  },
+  "slug": "pioneer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c23e3b704526139606b40"
+  },
+  "taxable": false,
+  "isActive": true,
+  "brand": {
+    "$oid": "642c23adb704526139606b3f"
+  },
+  "sku": "00000010",
+  "name": "LAVENDER SEEDS",
+  "description": "Lavender is a perennial herb plant with heavenly fragrance. This plant grows in cool climates and mostly in areas that are not very hot or humid.",
+  "quantity": 10,
+  "price": 20,
+  "imageUrl": "https://cdn.shopify.com/s/files/1/1380/2059/products/H12_600x600.jpg?v=1598076805",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-04T13:19:31.093Z"
+  },
+  "slug": "lavender-seeds",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c24b3b704526139606b41"
+  },
+  "taxable": false,
+  "isActive": true,
+  "brand": {
+    "$oid": "642c23adb704526139606b3f"
+  },
+  "sku": "00000011",
+  "name": "BASIL PURPLE SEEDS",
+  "description": "With origins in India, Basil has been in cultivation since ancient times. Similar in looks to the mint leaves and in taste to the anise.",
+  "quantity": 8,
+  "price": 35,
+  "imageUrl": "https://cdn.shopify.com/s/files/1/1380/2059/products/H07_600x600.jpg?v=1598076196",
+  "imageKey": "",
+  "created": {
+    "$date": "2023-04-04T13:22:59.370Z"
+  },
+  "slug": "basil-purple-seeds",
+  "__v": 0
+}]

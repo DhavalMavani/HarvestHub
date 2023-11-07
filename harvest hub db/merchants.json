@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "642a0d7f2e473fc12c2faf39"
+  },
+  "isActive": true,
+  "brand": {
+    "$oid": "642a0dff2e473fc12c2faf3a"
+  },
+  "status": "Approved",
+  "name": "merchant",
+  "email": "merchant1@gmail.com",
+  "business": "Wilmar International Limited is a Singaporean food processing and investment holding company with more than 300 subsidiary companies. Founded in 1991, it is one of Asia's leading agribusiness groups alongside the COFCO Group.",
+  "phoneNumber": "9898777712",
+  "brandName": "Wilmar International",
+  "created": {
+    "$date": "2023-04-02T23:19:27.089Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c1727d98e245c5be2790e"
+  },
+  "isActive": true,
+  "brand": {
+    "$oid": "642c173bd98e245c5be2790f"
+  },
+  "status": "Approved",
+  "name": "merchant2",
+  "email": "merchant2@gmail.com",
+  "business": "Tata Chemicals Limited is an Indian global company with interests in chemicals, crop protection and specialty chemistry products headquartered in Mumbai, India.",
+  "phoneNumber": "9898777712",
+  "brandName": "Tata Chemicals",
+  "created": {
+    "$date": "2023-04-04T12:25:11.604Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c1decb704526139606b37"
+  },
+  "isActive": true,
+  "brand": {
+    "$oid": "642c1df3b704526139606b38"
+  },
+  "status": "Approved",
+  "name": "merchant3",
+  "email": "merchant3@gmail.com",
+  "business": "TATA Agrico has in its product range both conventional tools used for gardening include pruning & roll cut secateurs, digging trowels, weeding forks, hedge shears and the modern offerings like bonsai kits & garden kits that provide solutions to customized consumer demands.",
+  "phoneNumber": "9898777713",
+  "brandName": "TATA Agrico",
+  "created": {
+    "$date": "2023-04-04T12:54:04.341Z"
+  },
+  "__v": 0
+}]

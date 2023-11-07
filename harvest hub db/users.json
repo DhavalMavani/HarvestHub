@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "642a0bdc2e473fc12c2faf37"
+  },
+  "merchant": null,
+  "provider": "Email",
+  "role": "ROLE MEMBER",
+  "email": "user1@gmail.com",
+  "password": "$2a$10$tUBnNUDPEQZQeROZi84Iq.3wR6YodabzQ5QueQjBNBMSJI6ibrXIC",
+  "firstName": "user",
+  "lastName": "1",
+  "created": {
+    "$date": "2023-04-02T23:12:28.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a0c3f2e473fc12c2faf38"
+  },
+  "merchant": {
+    "$oid": "642a0d7f2e473fc12c2faf39"
+  },
+  "provider": "Email",
+  "role": "ROLE MERCHANT",
+  "email": "merchant1@gmail.com",
+  "password": "$2a$10$tQ/MWiNTzVlcFkc6UKYMvubajQvx0Ulv45CyOmBlT.l0ZRn/O9316",
+  "firstName": "merchant",
+  "lastName": "1",
+  "created": {
+    "$date": "2023-04-02T23:14:07.771Z"
+  },
+  "__v": 0,
+  "phoneNumber": "9898777712"
+},{
+  "_id": {
+    "$oid": "642a0dd9fc3929c3ae25d6c5"
+  },
+  "merchant": null,
+  "provider": "Email",
+  "role": "ROLE ADMIN",
+  "email": "dhaval@gmail.com",
+  "password": "$2a$10$6ZoBd/iI1sQjJ7r2iUGNVeo3wxBqCLSlbw5AGjHv7od/Js8ZbfDTu",
+  "firstName": "admin",
+  "lastName": "admin",
+  "created": {
+    "$date": "2023-04-02T23:20:57.855Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c15a0d98e245c5be2790c"
+  },
+  "merchant": {
+    "$oid": "642c1727d98e245c5be2790e"
+  },
+  "provider": "Email",
+  "role": "ROLE MERCHANT",
+  "email": "merchant2@gmail.com",
+  "password": "$2a$10$vzfwGlKAJtltY96byERqc.SeaUA2F6ojMADB5mXybBb41J3ChNC2G",
+  "firstName": "merchnat2",
+  "lastName": "",
+  "created": {
+    "$date": "2023-04-04T12:18:40.550Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c1d9db704526139606b36"
+  },
+  "merchant": {
+    "$oid": "642c1decb704526139606b37"
+  },
+  "provider": "Email",
+  "role": "ROLE MERCHANT",
+  "email": "merchant3@gmail.com",
+  "password": "$2a$10$qUoMdXj2Ky9wkvYWKJKUKOT5dlmwFZCrqegohBBIe4jSIhV0IZbd2",
+  "firstName": "merchant3",
+  "lastName": "m3",
+  "created": {
+    "$date": "2023-04-04T12:52:45.592Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e8320fca85d3417d9ee1c"
+  },
+  "merchant": null,
+  "provider": "Email",
+  "role": "ROLE MEMBER",
+  "email": "user2@gmail.com",
+  "password": "$2a$10$y59fzNF4LWdVwq2DvcAR/eShBA6KiHyJpPKBgUPLMEq9tM4ei42VS",
+  "firstName": "User",
+  "lastName": "2",
+  "created": {
+    "$date": "2023-04-06T08:30:24.016Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643925275cd0693abb01a24b"
+  },
+  "merchant": null,
+  "provider": "Email",
+  "role": "ROLE ADMIN",
+  "email": "dhaval2@gmail.com",
+  "password": "$2a$10$7M0KTb2C10QD88fvdbP1aOYVKix81.5cNUeOA3iexZ/TRBkUfqiDK",
+  "firstName": "admin",
+  "lastName": "admin",
+  "created": {
+    "$date": "2023-04-14T10:04:23.654Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "642a2a0849c0bcd7f388907e"
+  },
+  "isActive": true,
+  "products": [
+    {
+      "$oid": "642a295049c0bcd7f388907c"
+    },
+    {
+      "$oid": "642a2af449c0bcd7f388907f"
+    },
+    {
+      "$oid": "642a2b7f49c0bcd7f3889080"
+    },
+    {
+      "$oid": "642c1788d98e245c5be27910"
+    },
+    {
+      "$oid": "642a2c3d49c0bcd7f3889081"
+    },
+    {
+      "$oid": "642c1a84b704526139606b35"
+    }
+  ],
+  "name": "Fertilizer",
+  "description": "A fertilizer is any material of natural or synthetic origin that is applied to soil or to plant tissues to supply plant nutrients.",
+  "created": {
+    "$date": "2023-04-03T01:21:12.849Z"
+  },
+  "slug": "fertilizer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c1f4eb704526139606b3a"
+  },
+  "isActive": true,
+  "products": [
+    {
+      "$oid": "642c1e8fb704526139606b39"
+    },
+    {
+      "$oid": "642c1fb4b704526139606b3b"
+    }
+  ],
+  "name": "Agricultural Machinery",
+  "description": "Agricultural machinery refers to the various tools, equipment, and machines used in farming and agriculture to increase efficiency and productivity.",
+  "created": {
+    "$date": "2023-04-04T12:59:58.699Z"
+  },
+  "slug": "agricultural-machinery",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c227db704526139606b3e"
+  },
+  "isActive": true,
+  "products": [
+    {
+      "$oid": "642c21dab704526139606b3d"
+    },
+    {
+      "$oid": "642c23e3b704526139606b40"
+    },
+    {
+      "$oid": "642c24b3b704526139606b41"
+    }
+  ],
+  "name": "Seeds",
+  "description": "Seed is an undeveloped plant embryo and food reserve enclosed in a protective outer covering. More generally, the term \"seed\" means anything that can be sown, which may include seed and husk or tuber.",
+  "created": {
+    "$date": "2023-04-04T13:13:33.691Z"
+  },
+  "slug": "seeds",
+  "__v": 0
+}]
