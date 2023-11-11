@@ -128,7 +128,7 @@ $ npm start
 
 
 ### Chatbot integrated with the virtual assistant(Siri) on my phone
-  <img width="500" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/6a31f794-900d-47f3-babf-bad290e7f544">
+  <img width="400" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/6a31f794-900d-47f3-babf-bad290e7f544">
   
   https://github.com/DhavalMavani/HarvestHub/assets/61201815/891095c4-dc5d-47b4-a7a5-af0fd6914bbb
 
