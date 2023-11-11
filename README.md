@@ -107,14 +107,42 @@ $ npm start
 ## Languages & tools
 
 - [Node](https://nodejs.org/en/)
-
 - [Express](https://expressjs.com/)
-
 - [Mongoose](https://mongoosejs.com/)
-
 - [React](https://reactjs.org/)
-
 - [Webpack](https://webpack.js.org/)
+- [OpenAI’s API](https://platform.openai.com/docs/introduction)
+
+
+## Screenshots
+
+### Website
+<div style="display: flex; justify-content: space-between;">
+    <img width="500" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/a7637cf1-9c20-41b2-9857-6d5d8fd9c2f8">
+    <img width="500" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/222cc943-91b1-47db-b837-08286d3fa107">
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <img width="500" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/a05c46d7-8577-4819-a13e-336cbf4213cc">
+    <img width="500" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/8c0349e6-ae49-475e-a6c1-f3f98053e9fa">
+</div>
+
+
+### Chatbot integrated with the virtual assistant(Siri) on my phone
+  <img width="500" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/6a31f794-900d-47f3-babf-bad290e7f544">
+  
+  https://github.com/DhavalMavani/HarvestHub/assets/61201815/891095c4-dc5d-47b4-a7a5-af0fd6914bbb
+
+
+### Chatbot
+<div style="display: flex; justify-content: space-between;">
+    <img width="500" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/138e2324-3c83-43e6-97ef-7687fe7c94ac">
+    <img width="500" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/de4e30b6-5b2f-4974-bf55-29b3ecf95451">
+</div>
+
+
+
+
+
 
 
 
