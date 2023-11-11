@@ -118,12 +118,12 @@ $ npm start
 
 ### Website
 <div style="display: flex; justify-content: space-between;">
-    <img width="500" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/a7637cf1-9c20-41b2-9857-6d5d8fd9c2f8">
-    <img width="500" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/222cc943-91b1-47db-b837-08286d3fa107">
+    <img width="400" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/a7637cf1-9c20-41b2-9857-6d5d8fd9c2f8">
+    <img width="400" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/222cc943-91b1-47db-b837-08286d3fa107">
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <img width="500" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/a05c46d7-8577-4819-a13e-336cbf4213cc">
-    <img width="500" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/8c0349e6-ae49-475e-a6c1-f3f98053e9fa">
+    <img width="400" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/a05c46d7-8577-4819-a13e-336cbf4213cc">
+    <img width="400" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/8c0349e6-ae49-475e-a6c1-f3f98053e9fa">
 </div>
 
 
@@ -135,8 +135,8 @@ $ npm start
 
 ### Chatbot
 <div style="display: flex; justify-content: space-between;">
-    <img width="500" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/138e2324-3c83-43e6-97ef-7687fe7c94ac">
-    <img width="500" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/de4e30b6-5b2f-4974-bf55-29b3ecf95451">
+    <img width="400" alt="Image 1" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/138e2324-3c83-43e6-97ef-7687fe7c94ac">
+    <img width="400" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/de4e30b6-5b2f-4974-bf55-29b3ecf95451">
 </div>
 
 
