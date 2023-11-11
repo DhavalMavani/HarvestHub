@@ -1,4 +1,4 @@
-# MERN Ecommerce
+# HarvestHub
 
 ## Description
 
