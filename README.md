@@ -26,7 +26,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 * For more information, see code [here](https://github.com/DhavalMavani/HarvestHub/blob/main/HarvestHub/server/utils/seed.js)
 
 ```
-npm run seed:db [email-***@****.com] [password-******] // This is just an example.
+npm run seed:db [email: dhavl@gmail.com] [password: abc123] // This is just an example.
 ```
 
 ## Install
