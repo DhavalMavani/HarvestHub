@@ -2,20 +2,52 @@
 
 ## Description
 
-An ecommerce store built with MERN stack, and utilizes third party API's. This ecommerce store enable three main different flows or implementations:
+HarvestHub is a feature-rich ecommerce store built with the MERN stack, incorporating third-party APIs. This platform facilitates three main flows:
 
 1. Buyers browse the store categories, products and brands
 2. Sellers or Merchants manage their own brand component
 3. Admins manage and control the entire store components 
 
+### Features:
 
-* features:
-  * Node provides the backend environment for this application
-  * Express middleware is used to handle requests, routes
-  * Mongoose schemas to model the application data
-  * React for displaying UI components
-  * Redux to manage application's state
-  * Redux Thunk middleware to handle asynchronous redux actions
+- **Backend:**
+  - Node.js provides the backend environment.
+  - Express middleware handles requests and routes.
+  - Mongoose schemas model the application data.
+
+- **Frontend:**
+  - React is used for displaying UI components.
+  - Redux manages the application's state.
+  - Redux Thunk middleware handles asynchronous redux actions.
+
+- **Interactive Chatbot:**
+  - OpenAI’s Text-Davinci-003 engine powers a Natural Language Customer Support Chatbot.
+  - Seamlessly integrated with Siri on iPhone using a custom-built API.
+
+- **User Authentication:**
+  - Users can securely authenticate on the platform.
+  - PassportJS is used for authentication in my application
+
+- **Real-time Customer Support:**
+  - WebSocket technology enables real-time customer support.
+ 
+- **Product Reviews:**
+  - Users have the ability to provide and view product reviews.
+
+
+
+## High Level Architecture Diagram
+![image](https://github.com/DhavalMavani/HarvestHub/assets/61201815/d042a547-fb61-4b01-84ca-9c98ed95c8ce)
+
+## User Flow Diagram
+<img width="325" alt="image" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/4f4bd018-6d5c-4471-92a4-5a6bc36f54c7">
+
+
+## GPT3 ARCHITECTURE
+<img height="700" alt="image" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/2f0d3cb7-a4cd-44dc-861a-5151ca8dce96">
+
+For a detailed view and interactive exploration of the GPT3 Architecture, you can also check [this Lucidchart link](https://lucid.app/lucidchart/899ec248-5223-47d3-88e7-61a6b4f3ce6b/edit?invitationId=inv_53178f5b-7304-4075-b5c1-cc243aef3caf).
+
 
 
 ## Database Seed
