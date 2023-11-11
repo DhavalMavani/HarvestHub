@@ -1,4 +1,4 @@
-# MERN Ecommerce
+# Harverst Hub
 
 ## Description
 
@@ -29,18 +29,12 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 npm run seed:db [email-***@****.com] [password-******] // This is just an example.
 ```
 
-## Demo
-
-This application is deployed on Render Please check it out :smile: [here](https://mern-store.onrender.com).
-
-See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
-
 ## Install
 
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ git clone https://github.com/DhavalMavani/HarvestHub.git
 $ cd project
 $ npm install
 ```
@@ -91,23 +85,4 @@ $ npm start
 - [Webpack](https://webpack.js.org/)
 
 
-### Code Formatter
-
-- Add a `.vscode` directory
-- Create a file `settings.json` inside `.vscode`
-- Install Prettier - Code formatter in VSCode
-- Add the following snippet:  
-
-```json
-
-    {
-      "editor.formatOnSave": true,
-      "prettier.singleQuote": true,
-      "prettier.arrowParens": "avoid",
-      "prettier.jsxSingleQuote": true,
-      "prettier.trailingComma": "none",
-      "javascript.preferences.quoteStyle": "single",
-    }
-
-```
 
