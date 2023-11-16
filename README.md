@@ -139,9 +139,8 @@ $ npm start
     <img width="400" alt="Image 2" src="https://github.com/DhavalMavani/HarvestHub/assets/61201815/de4e30b6-5b2f-4974-bf55-29b3ecf95451">
 </div>
 
-
-
-
+## 🔗 Let's Connect
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaval-mavani)
 
 
 
